@@ -1,0 +1,17 @@
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\bin\Debug\net8.0\Quiz-med-JSON-serialisering.exe
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\bin\Debug\net8.0\Quiz-med-JSON-serialisering.deps.json
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\bin\Debug\net8.0\Quiz-med-JSON-serialisering.runtimeconfig.json
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\bin\Debug\net8.0\Quiz-med-JSON-serialisering.dll
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\bin\Debug\net8.0\Quiz-med-JSON-serialisering.pdb
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.AssemblyInfoInputs.cache
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.AssemblyInfo.cs
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med.252F9A49.Up2Date
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.dll
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\refint\Quiz-med-JSON-serialisering.dll
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.pdb
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\Quiz-med-JSON-serialisering.genruntimeconfig.cache
+C:\Users\salih\source\repos\Quiz-med-JSON-serialisering\Quiz-med-JSON-serialisering\obj\Debug\net8.0\ref\Quiz-med-JSON-serialisering.dll

@@ -1,0 +1,55 @@
+{
+  "quiz": [
+    {
+      "question": "Hvad står SQL for?",
+      "choices": [ "Structured Query Language", "Simple Query Language", "Strong Query Language", "Standard Query Language" ],
+      "correct": "Structured Query Language"
+    },
+    {
+      "question": "Hvilken SQL-sætning bruges til at hente data fra en database?",
+      "choices": [ "GET", "RETRIEVE", "SELECT", "EXTRACT" ],
+      "correct": "SELECT"
+    },
+    {
+      "question": "Hvordan indsætter man nye rækker i en tabel?",
+      "choices": [ "ADD ROW", "INSERT INTO", "ADD DATA", "INSERT ROW" ],
+      "correct": "INSERT INTO"
+    },
+    {
+      "question": "Hvilken SQL-sætning bruges til at opdatere data i en tabel?",
+      "choices": [ "MODIFY", "CHANGE", "UPDATE", "ALTER" ],
+      "correct": "UPDATE"
+    },
+    {
+      "question": "Hvordan sletter man en tabel fra en database?",
+      "choices": [ "REMOVE TABLE", "DELETE TABLE", "DROP TABLE", "CLEAR TABLE" ],
+      "correct": "DROP TABLE"
+    },
+    {
+      "question": "Hvilken SQL-sætning bruges til at returnere unikke værdier?",
+      "choices": [ "SELECT DISTINCT", "SELECT UNIQUE", "SELECT DIFFERENT", "SELECT SINGLE" ],
+      "correct": "SELECT DISTINCT"
+    },
+    {
+      "question": "Hvordan filtrerer man data, der skal hentes fra en tabel?",
+      "choices": [ "WHERE", "IF", "FILTER", "LIMIT" ],
+      "correct": "WHERE"
+    },
+    {
+      "question": "Hvilken SQL-sætning bruges til at kombinere resultater fra to eller flere tabeller?",
+      "choices": [ "CONNECT", "JOIN", "LINK", "COMBINE" ],
+      "correct": "JOIN"
+    },
+    {
+      "question": "Hvordan sorterer man resultaterne af en forespørgsel i stigende rækkefølge?",
+      "choices": [ "SORT BY ASC", "ORDER BY ASCENDING", "SORT ASC", "ORDER BY" ],
+      "correct": "ORDER BY"
+    },
+    {
+      "question": "Hvilken SQL-sætning bruges til at skabe en ny tabel?",
+      "choices": [ "NEW TABLE", "CREATE TABLE", "MAKE TABLE", "BUILD TABLE" ],
+      "correct": "CREATE TABLE"
+    }
+  ]
+}
+
