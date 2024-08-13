@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sOu3WONrh+8=",
+  "dgSpecHash": "/kbLtWSiOA4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\salih\\source\\repos\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj",
+  "projectFilePath": "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\salih\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\asa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

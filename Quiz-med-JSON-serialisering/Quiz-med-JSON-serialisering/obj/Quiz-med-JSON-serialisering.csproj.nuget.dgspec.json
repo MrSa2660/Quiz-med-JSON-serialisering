@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salih\\source\\repos\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj": {}
+    "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salih\\source\\repos\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj": {
+    "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salih\\source\\repos\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj",
+        "projectUniqueName": "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj",
         "projectName": "Quiz-med-JSON-serialisering",
-        "projectPath": "C:\\Users\\salih\\source\\repos\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj",
-        "packagesPath": "C:\\Users\\salih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salih\\source\\repos\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\obj\\",
+        "projectPath": "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering.csproj",
+        "packagesPath": "C:\\Users\\asa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\salih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
