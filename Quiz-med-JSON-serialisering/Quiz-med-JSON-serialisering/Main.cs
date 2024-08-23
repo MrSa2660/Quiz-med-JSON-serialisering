@@ -6,7 +6,7 @@ using System.Text.Json;
 namespace Quiz_med_JSON_serialisering {
     class MainClass {
         public static int choices {get; set; }
-        public static string path { get; set; }
+        public static string? path { get; set; }
         public static void Main() {
            
 
