@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quiz-med-JSON-serialisering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a487614c80338ec7c5e30bdb0523e569364b928")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cf10a58ce98e3480719c1eb7775b559618b502e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quiz-med-JSON-serialisering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quiz-med-JSON-serialisering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
