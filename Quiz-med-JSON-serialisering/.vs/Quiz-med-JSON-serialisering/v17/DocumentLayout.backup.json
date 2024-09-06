@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Quiz-med-JSON-serialisering\\MutliKeyValueSql.json",
               "ToolTip": "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\MutliKeyValueSql.json",
               "RelativeToolTip": "Quiz-med-JSON-serialisering\\MutliKeyValueSql.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-09T00:59:35.583Z"
             },
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Quiz-med-JSON-serialisering\\MultiKeyValue.json",
               "ToolTip": "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\MultiKeyValue.json",
               "RelativeToolTip": "Quiz-med-JSON-serialisering\\MultiKeyValue.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-08T23:35:47.197Z"
             },
@@ -56,10 +56,14 @@
               "RelativeDocumentMoniker": "Quiz-med-JSON-serialisering\\Main.cs",
               "ToolTip": "C:\\Users\\asa\\Documents\\GitHub\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Quiz-med-JSON-serialisering\\Main.cs",
               "RelativeToolTip": "Quiz-med-JSON-serialisering\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:21:21.101Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
